@@ -1,0 +1,19 @@
+.x
+{
+	height: 600px;
+	width: 180%;
+}
+.y
+{
+	height: 290px;
+	width: 200px;
+	float: right;
+	margin-bottom: 16px;
+	margin-right: 10px;
+}
+.row
+{
+	width: 100%;
+	height: 600px;
+	margin-left: 20px;
+}
